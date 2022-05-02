@@ -1,4 +1,5 @@
 # Maximiliano Gabriel Jaque Fernández
+### Ingeniero Civil en Minas<br>
 ### Desarrollador Full Stack Junior Python<br>
 
 ## Resumen
